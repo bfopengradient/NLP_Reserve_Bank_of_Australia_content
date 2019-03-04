@@ -1,2 +1,2 @@
-Testing Word2vec(Google Brain) and fastText(Facebook) on content from the Reserve Bank of Australia.
+Testing Word2vec(Google Brain) and fastText(Facebook AI) on content from the Reserve Bank of Australia.
  
