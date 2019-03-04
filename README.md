@@ -1,2 +1,2 @@
+Testing Word2vec(Google Brain) and fastText(Facebook) on content from the Reserve Bank of Australia.
  
-Using Google and Facebook NLP models to see how they learn to read interest rate decisions by the Reserve Bank of Australia.
